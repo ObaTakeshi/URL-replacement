@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string></string>
+	<key>connections</key>
+	<dict>
+		<key>049A3D8B-6BE0-4E1E-B01E-4AF8E612C94A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5BFFAC41-5265-4E5E-A862-365A10623F6B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>06F9700B-6F30-4EDD-8C2B-E002704770FA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EBBFA6C7-DF8B-46D6-9BE9-CE35BCB67DFE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>25B2A032-CECB-4C88-9D5D-4186B349950B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BEE672FB-7473-4580-B3B8-10ABEBF92C72</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2A52FE5C-F621-40D0-8185-BC14D1F383B5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DBAA8144-7A9A-4E14-8847-63190F5CD571</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>3F8EA6EA-2180-4D5F-A0F9-83283AF7FB70</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2A52FE5C-F621-40D0-8185-BC14D1F383B5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5BFFAC41-5265-4E5E-A862-365A10623F6B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C660614C-4988-4E6B-A46C-837484D93A5F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6C2D9B66-069F-41D9-A42F-5013A7F06DA3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BFE2FBBA-0681-44D5-8A40-857EDAA42C2D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AEA04A97-391F-4399-BEA3-71E7FA0063D7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>06F9700B-6F30-4EDD-8C2B-E002704770FA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>BFE2FBBA-0681-44D5-8A40-857EDAA42C2D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C660614C-4988-4E6B-A46C-837484D93A5F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C660614C-4988-4E6B-A46C-837484D93A5F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>822D7EF3-094B-4EA9-910B-FEEED72CBCAA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>DBAA8144-7A9A-4E14-8847-63190F5CD571</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F341732D-E932-4E20-BD88-5BDF0BC7AD34</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>5AECB236-FBDF-40B0-B7FF-6BEFCE0089E3</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>25B2A032-CECB-4C88-9D5D-4186B349950B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>B4AF4F37-91C6-4941-8687-A803D340A7ED</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>6C2D9B66-069F-41D9-A42F-5013A7F06DA3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>F5CD46A1-7139-4A03-9209-D3CDCDCCED5A</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>049A3D8B-6BE0-4E1E-B01E-4AF8E612C94A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EBBFA6C7-DF8B-46D6-9BE9-CE35BCB67DFE</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D1A28BCD-F7E3-4F2C-87CA-935BBA3E0FEE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F341732D-E932-4E20-BD88-5BDF0BC7AD34</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BEE672FB-7473-4580-B3B8-10ABEBF92C72</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Oba Takeshi</string>
+	<key>description</key>
+	<string></string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>URL replacement</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+  -- your script here
+  tell application "Google Chrome"	set currentURL to get URL of active tab of first window  end tell  return currentURL
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>F341732D-E932-4E20-BD88-5BDF0BC7AD34</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>fetch_URL</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>BEE672FB-7473-4580-B3B8-10ABEBF92C72</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>browser</string>
+						<key>outputlabel</key>
+						<string>browser</string>
+						<key>uid</key>
+						<string>5AECB236-FBDF-40B0-B7FF-6BEFCE0089E3</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>clipboard</string>
+						<key>outputlabel</key>
+						<string>clipboard</string>
+						<key>uid</key>
+						<string>B4AF4F37-91C6-4941-8687-A803D340A7ED</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>host</string>
+						<key>outputlabel</key>
+						<string>host</string>
+						<key>uid</key>
+						<string>F5CD46A1-7139-4A03-9209-D3CDCDCCED5A</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>path</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>DBAA8144-7A9A-4E14-8847-63190F5CD571</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{clipboard}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>25B2A032-CECB-4C88-9D5D-4186B349950B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>urlreplacement</string>
+				<key>subtext</key>
+				<string>{var:WORKFLOW_NAME}</string>
+				<key>text</key>
+				<string>{var:WORKFLOW_NAME}</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>3F8EA6EA-2180-4D5F-A0F9-83283AF7FB70</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string># encoding: utf-8
+
+import json
+
+options = {"items": [
+			{
+				"title": "exchange (already open)",
+				"arg": "browser",
+				"subtitle": "ブラウザのURLの置換"
+			},
+			{
+				"title": "exchange (from clipboard)",
+				"arg": "clipboard",
+				"subtitle": "クリップボードのURLの置換"
+			},
+			{
+				"title": "extraction host",
+			 	"arg": "host",
+			 	"subtitle": "ホスト部をコピー(ブラウザのURL)"
+			},
+			{
+				"title": "extraction path",
+			 	"arg": "path",
+			 	"subtitle": "パスをコピー(ブラウザのURL)"
+			},
+		]}
+
+print(json.dumps(options))
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>3</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>2A52FE5C-F621-40D0-8185-BC14D1F383B5</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>import sys
+from lib.lib import URL_lib
+
+query = sys.argv[1]
+
+host = URL_lib.get_url_host(query)
+
+sys.stdout.write(host)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>BFE2FBBA-0681-44D5-8A40-857EDAA42C2D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+  -- your script here
+  tell application "Google Chrome"	set currentURL to get URL of active tab of first window  end tell  return currentURL
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>6C2D9B66-069F-41D9-A42F-5013A7F06DA3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>C660614C-4988-4E6B-A46C-837484D93A5F</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Copy to Clipboard</string>
+				<key>title</key>
+				<string>{var:WORKFLOW_NAME}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>822D7EF3-094B-4EA9-910B-FEEED72CBCAA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>import sys
+from lib.lib import URL_lib
+
+query = sys.argv[1]
+
+path = '/' + URL_lib.get_url_path(query)
+
+sys.stdout.write(path)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>5BFFAC41-5265-4E5E-A862-365A10623F6B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+  -- your script here
+  tell application "Google Chrome"	set currentURL to get URL of active tab of first window  end tell  return currentURL
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>049A3D8B-6BE0-4E1E-B01E-4AF8E612C94A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>triggerid</key>
+				<string>fetch_URL</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>AEA04A97-391F-4399-BEA3-71E7FA0063D7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string># encoding: utf-8
+
+import sys
+import os
+import json
+
+from lib.lib import URL_lib
+
+query = sys.argv[1]
+
+url_list_file = os.environ['HOME'] + os.environ['URL_LIST']
+
+def option(url):
+	return {"title": url, "arg": url}
+
+current_url_host = URL_lib.get_url_host(query)
+current_url_path = URL_lib.get_url_path(query)
+
+hit_row = URL_lib.search_url_list(current_url_host, url_list_file)
+
+if hit_row is 0:
+	print(json.dumps({"items": [{"title": "No match",
+								"arg": "0",
+								"subtitle": query}]}))
+else:
+	options = []
+	for cordinate_url in hit_row:
+		arg_url = cordinate_url + '/' + current_url_path
+		options.append(option(arg_url))
+
+	print(json.dumps({"items": options}))
+			</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>3</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>06F9700B-6F30-4EDD-8C2B-E002704770FA</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>D1A28BCD-F7E3-4F2C-87CA-935BBA3E0FEE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>0</string>
+						<key>outputlabel</key>
+						<string>No match</string>
+						<key>uid</key>
+						<string>240C5A61-420E-4E2D-BE64-39F3D02267D3</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>EBBFA6C7-DF8B-46D6-9BE9-CE35BCB67DFE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict>
+		<key>049A3D8B-6BE0-4E1E-B01E-4AF8E612C94A</key>
+		<dict>
+			<key>xpos</key>
+			<integer>560</integer>
+			<key>ypos</key>
+			<integer>310</integer>
+		</dict>
+		<key>06F9700B-6F30-4EDD-8C2B-E002704770FA</key>
+		<dict>
+			<key>xpos</key>
+			<integer>225</integer>
+			<key>ypos</key>
+			<integer>470</integer>
+		</dict>
+		<key>25B2A032-CECB-4C88-9D5D-4186B349950B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>590</integer>
+			<key>ypos</key>
+			<integer>135</integer>
+		</dict>
+		<key>2A52FE5C-F621-40D0-8185-BC14D1F383B5</key>
+		<dict>
+			<key>xpos</key>
+			<integer>205</integer>
+			<key>ypos</key>
+			<integer>140</integer>
+		</dict>
+		<key>3F8EA6EA-2180-4D5F-A0F9-83283AF7FB70</key>
+		<dict>
+			<key>xpos</key>
+			<integer>30</integer>
+			<key>ypos</key>
+			<integer>140</integer>
+		</dict>
+		<key>5BFFAC41-5265-4E5E-A862-365A10623F6B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>730</integer>
+			<key>ypos</key>
+			<integer>310</integer>
+		</dict>
+		<key>6C2D9B66-069F-41D9-A42F-5013A7F06DA3</key>
+		<dict>
+			<key>xpos</key>
+			<integer>560</integer>
+			<key>ypos</key>
+			<integer>200</integer>
+		</dict>
+		<key>822D7EF3-094B-4EA9-910B-FEEED72CBCAA</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1065</integer>
+			<key>ypos</key>
+			<integer>255</integer>
+		</dict>
+		<key>AEA04A97-391F-4399-BEA3-71E7FA0063D7</key>
+		<dict>
+			<key>xpos</key>
+			<integer>35</integer>
+			<key>ypos</key>
+			<integer>470</integer>
+		</dict>
+		<key>BEE672FB-7473-4580-B3B8-10ABEBF92C72</key>
+		<dict>
+			<key>xpos</key>
+			<integer>805</integer>
+			<key>ypos</key>
+			<integer>85</integer>
+		</dict>
+		<key>BFE2FBBA-0681-44D5-8A40-857EDAA42C2D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>730</integer>
+			<key>ypos</key>
+			<integer>200</integer>
+		</dict>
+		<key>C660614C-4988-4E6B-A46C-837484D93A5F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>895</integer>
+			<key>ypos</key>
+			<integer>255</integer>
+		</dict>
+		<key>D1A28BCD-F7E3-4F2C-87CA-935BBA3E0FEE</key>
+		<dict>
+			<key>xpos</key>
+			<integer>555</integer>
+			<key>ypos</key>
+			<integer>480</integer>
+		</dict>
+		<key>DBAA8144-7A9A-4E14-8847-63190F5CD571</key>
+		<dict>
+			<key>xpos</key>
+			<integer>405</integer>
+			<key>ypos</key>
+			<integer>130</integer>
+		</dict>
+		<key>EBBFA6C7-DF8B-46D6-9BE9-CE35BCB67DFE</key>
+		<dict>
+			<key>xpos</key>
+			<integer>420</integer>
+			<key>ypos</key>
+			<integer>490</integer>
+		</dict>
+		<key>F341732D-E932-4E20-BD88-5BDF0BC7AD34</key>
+		<dict>
+			<key>xpos</key>
+			<integer>555</integer>
+			<key>ypos</key>
+			<integer>20</integer>
+		</dict>
+	</dict>
+	<key>variables</key>
+	<dict>
+		<key>URL_LIST</key>
+		<string>/Documents/URL_replacement/url_list.csv</string>
+		<key>WORKFLOW_NAME</key>
+		<string>URL replacement</string>
+	</dict>
+	<key>version</key>
+	<string>0.0.1</string>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>
