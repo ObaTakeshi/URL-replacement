@@ -617,23 +617,23 @@ query = sys.argv[1]
 
 url_list_file = os.environ['HOME'] + os.environ['URL_LIST']
 
-def option(url):
-	return {"title": url, "arg": url}
+def option(url, name):
+	return {"title": name, "subtitle": url, "arg": url}
 
 current_url_host = URL_lib.get_url_host(query)
 current_url_path = URL_lib.get_url_path(query)
 
-hit_row = URL_lib.search_url_list(current_url_host, url_list_file)
+hit_urls = URL_lib.search_url_list(current_url_host, url_list_file)
 
-if hit_row is 0:
+if hit_urls is 0:
 	print(json.dumps({"items": [{"title": "No match",
 								"arg": "0",
 								"subtitle": query}]}))
 else:
 	options = []
-	for cordinate_url in hit_row:
-		arg_url = cordinate_url + '/' + current_url_path
-		options.append(option(arg_url))
+	for url_block in hit_urls:
+		arg_url = url_block['url'] + '/' + current_url_path
+		options.append(option(arg_url, url_block['name']))
 
 	print(json.dumps({"items": options}))
 			</string>
@@ -827,12 +827,10 @@ else:
 	<key>variables</key>
 	<dict>
 		<key>URL_LIST</key>
-		<string>/Documents/URL_replacement/url_list.csv</string>
+		<string>/Documents/URL_replacement/url_list.json</string>
 		<key>WORKFLOW_NAME</key>
 		<string>URL replacement</string>
 	</dict>
-	<key>variablesdontexport</key>
-	<array/>
 	<key>version</key>
 	<string>0.1.0</string>
 	<key>webaddress</key>
